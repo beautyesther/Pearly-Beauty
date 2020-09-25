@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "PearlyBeauty"
+    }
+  },
+  "defaultProject": "PearlyBeauty",
+  "cli": {
+    "analytics": "0891ca40-66a7-45b9-aa3a-01cf01ceae1d"
+  }
 }
